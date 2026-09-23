@@ -212,9 +212,6 @@ Ashka-Email-APP/
 - save generated emails to text or PDF format
 - support tone selection (formal, friendly, persuasive, executive)
 
-## License
-
-This project is currently shared as a learning and demonstration project. Please check the repository for licensing details or update it based on your intended usage.
 
 ## Contributing
 
